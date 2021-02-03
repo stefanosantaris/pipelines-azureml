@@ -1,5 +1,5 @@
 variables:
-  ml-ws-connection: 'amlsConnectionName' # Workspace Service Connection name
+  ml-ws-connection: 'AZMLWS' # Workspace Service Connection name
   ml-ws: 'labs-ai-workspace' # AML Workspace name
   ml-rg: 'hive-labs' # AML resource Group name
   ml-ct: 'labs-ai' # AML Compute cluster name
